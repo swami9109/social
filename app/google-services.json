@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448158103587",
+    "project_id": "samscials",
+    "storage_bucket": "samscials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448158103587:android:33e057943b8fbb054f5996",
+        "android_client_info": {
+          "package_name": "com.example.samscials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkgzja7AKfvN5JfTf_qlu0CTDlpxMA1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
